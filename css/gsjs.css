@@ -1,0 +1,63 @@
+﻿
+
+#banner,#hezi,#guanyu,#zye-content,#hezi-zs，#zhanshi{ width:1222px;}
+#banner-bg{ width:100%; height:500px; background-color:#9e9e9e;}
+#banner{height:500px; margin-top:50px;}
+#content,#cont-nav{ width:1222px; }
+#content{height:100%; margin-top:5px; margin-bottom:20px; font-family:"微软雅黑","方正黑体", "华文行楷"; font-size:13px; color:#636363;}
+#cont-nav{height:40px; display:block; background-color:#1a1a1a;
+line-height:40px; font-size:18px; color:#FFF; text-indent:10px;}
+.cont-p1{width:1222px; line-height:20px;}
+#content span{ width:1222px; height:80px; display:block; line-height:80px; font-size:24px;}
+#content #ewm{ margin-top:15px;}
+
+#footer-bg{ width:100%; height:84px; background-color:#1a1a1a;}
+#footer{ width:1222px; height:84px;
+font-size:10px;font-family:"方正黑体","Microsoft YaHei","黑体";color:#dedede; text-align:center;}
+#footer p{ width:500px; height:64px; margin-top:10px;display:inline-block;line-height:16px;}
+#footer #f-logo{ float:left; margin-top:25px;}
+#footer #f-wbwx{ float:right; margin-top:30px;}
+#footer #f-wbwx img{ margin-left:10px;}
+body,td,p,img,br,ul,li,a,span,td,h1,h2{
+list-style-type:none;text-decoration:none; padding:0px; margin:0px;}
+body{background-color:#d3d3d3;
+/*font-family:"方正黑体","Microsoft YaHei" , "黑体";*/
+}
+#nav ul li a:hover,#nav ul li a:active{ background-color: rgba(87,84,84,0.5);
+	transition: background-color,color 0.5s; color:#2fab7b;} 	
+#nav ul{height:50px; width:840px; margin:0px auto;}
+#nav ul li{float:left; position:relative;}
+#nav ul li a{width:120px;height:50px;line-height:50px;
+text-align:center;display:block;}
+a{ color:#FFF;}
+img{ border:none;}
+div{ margin:0px auto;}
+/*#content{width:1222px;
+         height:100%;}*/
+#nav-bg{ width:100%; height:50px;
+  background-color:rgba(24,24,24,0.85);
+  position:fixed;
+  top:0px;
+  z-index:100;}
+#nav #img1{ float:left;}#nav #img2{ float:right;}
+#nav img{ margin-top:8px;}
+#nav{
+  width:1222px;
+  height: 50px;
+  font-family:"微软雅黑","方正黑体", "华文行楷";
+  font-size:18px; color:#FFF;
+}
+.nav-l1,.nav-l2,.nav-l3,.nav-l4,.nav-l5,.nav-l6,.nav-l7{color:#2fab7b;
+background-color:rgba(87,84,84,0.5);}
+/*#nav ul li a:visited,#nav ul li a:link{ color:#fff;} */
+
+#nav ul li ul{ display:none; width:120px; height:150px;
+background-color:rgba(24,24,24,0.85);color:#2fab7b;}
+#nav ul li:hover ul{ display:block;position:absolute; 
+top:5opx; left:0;}
+#banner,#hezi,#guanyu,#zye-content,#hezi-zs，#zhanshi{ width:1222px;}
+#banner-bg{ width:100%; height:500px; background-color:#9e9e9e;}
+#banner{height:500px; margin-top:50px;}
+
+
+

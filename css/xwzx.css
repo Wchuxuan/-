@@ -1,0 +1,6 @@
+#news{ width:1050px; height:100%;}
+#news .shijian{float:right;display:block;}
+#news ul{ height:100%; margin-bottom:10px;
+margin-top:25px;}
+#news ul li a{ display:block; width:1000px; height:30px; line-height:30px;color:#636363;}
+#news ul li a:hover{color:#2fab7b; text-decoration:underline;}
